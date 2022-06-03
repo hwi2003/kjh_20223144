@@ -14,7 +14,7 @@
 
 ### 1) top
 
-리눅스에서 top을 칠 경우 아래 화면 같이 나옴
+리눅스에서 top을 입력  경우 아래 화면 같이 나옴
 
 <img src="https://user-images.githubusercontent.com/106733778/171848386-f06cb756-68ba-44f0-b17e-bcce2bf09ac2.png" width="1920" height="1080">
 
@@ -31,7 +31,7 @@ shift + t 프로세스가 돌아가고 있는 시간 순서대로 표시
 
 ### 2) ps
 
-리눅스에서 ps를 칠 경우 아래 화면 같이 나옴
+리눅스에서 ps를 입력 할 경우 아래 화면 같이 나옴
 
 <img src="https://user-images.githubusercontent.com/106733778/171851281-ffea8cf5-c02b-4111-86ce-f451c1ac064c.png" width="1920" height="1080">
 |옵션|설명|
