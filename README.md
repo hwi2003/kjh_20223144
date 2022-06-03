@@ -14,6 +14,6 @@
 
 1) top
 ![image](https://user-images.githubusercontent.com/106733778/171847754-32d93be1-99d4-41e3-9db1-be35896d68c2.png width="1920" height="1080")
-
+<img scr="https://user-images.githubusercontent.com/106733778/171847754-32d93be1-99d4-41e3-9db1-be35896d68c2.png" width="1920" height="1080">
 
 + **vim 에디터에서...**
