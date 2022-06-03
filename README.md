@@ -64,7 +64,7 @@ kill [OPTION] [PID](
 
 kill -l을 통해 옵션을 알 수 있습니다
 
-<img src="ttps://user-images.githubusercontent.com/106733778/171854342-149283b1-bfc8-42c7-8e82-980ed8862266.png" width="1920" height="1080">
+<img src="https://user-images.githubusercontent.com/106733778/171854342-149283b1-bfc8-42c7-8e82-980ed8862266.png" width="1920" height="1080">
 
 기본값은 -15(-term)입니다
 
