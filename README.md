@@ -60,7 +60,7 @@ shift + t 프로세스가 돌아가고 있는 시간 순서대로 표시
 
 프로세스 죽이는 명령어
 
-kill [OPTION] [PID](
+kill [OPTION] [PID]
 
 kill -l을 통해 옵션을 알 수 있습니다
 
